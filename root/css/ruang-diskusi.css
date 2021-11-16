@@ -1,0 +1,29 @@
+.button-post {
+	display: block;
+	text-align: center;
+	background-color: green;
+	color: lightcyan;
+	text-decoration: none;
+	padding: 10px 15px;
+	cursor: pointer;
+}
+.postingan {
+	border-style: groove;
+	padding: 20px;
+	margin: 10px;
+}
+.komentar input {
+	width: 50%;
+	height: 20px;
+}
+#post {
+	border-style: solid;
+	padding: 20px;
+}
+#post input {
+	width: 80%;
+	height: 30px;
+}
+#beranda {
+	margin: 20px;
+}
