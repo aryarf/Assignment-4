@@ -1,0 +1,11 @@
+#utama {
+	font-size: 20px;
+	margin: 20px;
+}
+.program {
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	border-radius: 5%;
+	padding: 10px 20px;
+}
