@@ -1,0 +1,17 @@
+#inputsaran input {
+	width: 80%;
+	padding-bottom: 50px;
+}
+#saran-request {
+	margin: 20px;
+}
+#saran-request button {
+	display: block;
+	background-color: green;
+	color: white;
+	padding: 20px 30px;
+}
+#saran-request button:hover {
+	background-color: darkgreen;
+	color: gray;
+}
