@@ -13,9 +13,9 @@ Bandar Ilkom merupakan sebuah layanan yang berawal dari keresahan kami sebagai m
  3. Muhammad Rifqi Abdillah 1313620033
 
 Pembagian Tugas :  
-Arya: Backend bagian bandar materi dan bandar soal
-Zulfadli: Front End bagian grafik desain seperti logo dll, dan juga Front End dan Back End bagian Login
-Rifqi: Front End dalam situs utama, dan back end bagian search juga ruang diskusi
+1. Arya: Backend bagian bandar materi dan bandar soal
+2. Zulfadli: Front End bagian grafik desain seperti logo dll, dan juga Front End dan Back End bagian Login
+3. Rifqi: Front End dalam situs utama, dan back end bagian search juga ruang diskusi
 
 User Manual: https://github.com/aryarf/Assignment-4/blob/main/doc/spec/Bandar%20Ilkom%20User%20Manual.pdf
 
