@@ -1,0 +1,21 @@
+#saran-request {
+	margin: 20px;
+}
+#saran-request button {
+	display: block;
+	background-color: green;
+	color: white;
+	padding: 20px 30px;
+}
+#saran-request button:hover {
+	background-color: darkgreen;
+	color: gray;
+}
+#saranbox {
+	width: 80%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
