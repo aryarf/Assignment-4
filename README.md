@@ -3,7 +3,7 @@
 bandarilkom.42web.io/login.php
 
 # Little about Bandar Ilkom
-Bandar Ilkom merupakan sebuah layanan yang berawal dari keresahan kami sebagai mahasiswa ilmu komputer dalam menemukan sumber - sumber materi pembelajaran. Oleh karenanya nanti di Bandar Ilkom akan memberikan hal - hal  yang dapat menunjang kegiatan pembelajaran mahasiswa khususnya di ilmu komputer. Beberapa primary features dari web kami adalah : Bandar Materi, Bandar Soal, Ruang Diskusi, dan juga beberapa Funfact.
+Bandar Ilkom merupakan sebuah layanan yang berawal dari keresahan kami sebagai mahasiswa ilmu komputer dalam menemukan sumber - sumber materi pembelajaran. Oleh karenanya nanti di Bandar Ilkom akan memberikan hal - hal  yang dapat menunjang kegiatan pembelajaran mahasiswa khususnya di ilmu komputer. Kemudian klien kami yang merupakan alumnnus dari ilmu komputer merasa tergerak untuk menjadi klien kami. Beberapa primary features dari web kami adalah : Bandar Materi, Bandar Soal, Ruang Diskusi, dan juga beberapa Funfact.
 
 
  Anggota Kelompok kami:
