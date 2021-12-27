@@ -1,7 +1,7 @@
 #title {
 	text-align: center;
-	background-image: url("assets/img/banner.jpg");
 	color: lime;
+	background-image: url("../assets/img/banner.jpg");
 	font-size: 20px;
 }
 #title-2 {
